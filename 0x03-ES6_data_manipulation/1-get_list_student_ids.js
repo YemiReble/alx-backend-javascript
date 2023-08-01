@@ -1,4 +1,6 @@
 export default function getListStudentIds() {
-    // you must use map function in this array
-    return [...id]
+    if (Array.arrayof(list)) {
+        return list.map((obj) => obj.id);
+      }
+    return [];
 }
