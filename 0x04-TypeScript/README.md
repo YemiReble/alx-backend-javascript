@@ -17,4 +17,4 @@
 * Basic nominal typing with Typescript
 
 ## Configuration File
-See [task_0](https://github.com/yemireble/alx-backend-javascript\0x04-TypeScript\task_0) dir
+See [task_0](https://github.com/yemireble/alx-backend-javascript/0x04-TypeScript/task_0) dir
