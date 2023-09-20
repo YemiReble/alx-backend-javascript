@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 // Get User name and display a message
 console.log('Welcome to Holberton School, what is your name?');
 const readline = require('readline');
