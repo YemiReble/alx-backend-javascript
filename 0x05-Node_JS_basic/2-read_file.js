@@ -19,7 +19,7 @@ function countStudents(path) {
                 countCS++
                 }
         }
-        console.log(`Number of students: ${readf.length}, ${lineNum}`);
+        console.log(`Number of students: ${lineNum - 2}`);
         const user = lineCount
         console.log(`Number of students: ${countCS}, CS: ${user}`);
         console.log(`Number of students: SE: ${countSE}`);
